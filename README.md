@@ -1,0 +1,3 @@
+XJ-Board Mini Chat / Tagboard
+
+XJ-Board, pequeño script de chat realizado para ofrecer los servicios más atractivos y discretos a tus visitantes. XJBoard te permitirá incrustar el tablero de mensajes directamente a cualquier parte de tu web mediante un simple código en PHP, su funcionamiento es simple y seguro, el visitante de tu sitio web podrá enviar mensajes instantáneos sin tener que recargar todo tu sitio web. Actualmente después de enviar el mensaje, el propio script se mantiene siempre visible sin recargar la página, una vez enviado el chat se actualiza automaticamente únicamente si hay algun mensaje posterior al último recibido, de esta forma la nevegación por la web no es interrumpida en ninguna ocasión.
